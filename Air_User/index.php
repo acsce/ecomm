@@ -8,7 +8,8 @@ if($_SESSION["user"]=="")
 	</script>
 <?php
 }
-include "connection.php";
+include "connection.php"
+	echo "Helllllllloooooooo";
 ?> 
 <!DOCTYPE html>
 <html lang="en">
